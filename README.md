@@ -1,6 +1,6 @@
 # NotíciaZap
 
-**NotíciaZap** é um agregador de notícias online que utiliza RSS para exibir, em uma única página, os principais títulos, imagens e resumos de fontes como G1 e O Dia.
+**NotíciaZap** é um agregador de notícias online em uma única página, os principais fatos que foram notícias no Brasil e no mundo.
 
 ## Funcionalidades
 
